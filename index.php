@@ -1,3 +1,5 @@
 <?php
-
-echo "Hello Stanley!";
+echo "<pre>";
+echo phpinfo();
+echo "</pre>";
+?>
