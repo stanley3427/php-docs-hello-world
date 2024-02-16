@@ -9,7 +9,7 @@ if (empty($_POST['user']) == True)
 }
 else
 {
-	if (strtolower($_POST['user']) == "wade")
+	if (strtolower($_POST['user']) == "Stanley")
 	{
 		echo "<pre>";
 		echo phpinfo();
